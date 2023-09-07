@@ -6,7 +6,7 @@ function App() {
   return (
     <div>
      <Navbar title="GlobeGlimpse"/>
-     <News/>
+     <News pageSize={6}/>
     </div>
   );
 }
