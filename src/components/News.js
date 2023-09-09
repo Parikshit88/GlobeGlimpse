@@ -30,9 +30,9 @@ const updateNews = async () => {
 };
 
 useEffect(() => {
-    document.title = `${capitalizeFirstLetter(
+    document.title = `GlobeGlimpse - ${capitalizeFirstLetter(
     props.category
-  )} - GlobeGlimpse`;
+  )}`;
      updateNews();
      // eslint-disable-next-line
 }, []);

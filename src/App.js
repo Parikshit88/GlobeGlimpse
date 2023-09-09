@@ -20,7 +20,7 @@ const [progress, setProgress] = useState(0)
     return (
       <div>
         <Router>
-          <Navbar title=<strong>GlobeGlimpse</strong> />
+          <Navbar/>
           <LoadingBar
             height={3}
             color="#fd7e14"
@@ -29,7 +29,7 @@ const [progress, setProgress] = useState(0)
           <Routes>
             <Route
               exact
-              path="/general"
+              path="/"
               element={
                 <News
                   setProgress={setProgress}
