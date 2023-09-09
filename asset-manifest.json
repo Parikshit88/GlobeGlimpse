@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/GlobeGlimpse/static/css/main.de43aa7b.css",
+    "main.js": "/GlobeGlimpse/static/js/main.5af7e0cd.js",
+    "static/js/787.4467b4b8.chunk.js": "/GlobeGlimpse/static/js/787.4467b4b8.chunk.js",
+    "static/media/loading.gif": "/GlobeGlimpse/static/media/loading.7222289ec17401e55b7e.gif",
+    "index.html": "/GlobeGlimpse/index.html",
+    "main.de43aa7b.css.map": "/GlobeGlimpse/static/css/main.de43aa7b.css.map",
+    "main.5af7e0cd.js.map": "/GlobeGlimpse/static/js/main.5af7e0cd.js.map",
+    "787.4467b4b8.chunk.js.map": "/GlobeGlimpse/static/js/787.4467b4b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de43aa7b.css",
+    "static/js/main.5af7e0cd.js"
+  ]
+}
